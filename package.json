@@ -1,0 +1,25 @@
+{
+  "name": "cra-template-n2o-7-test",
+  "version": "1.0.0",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "n2o"
+  ],
+  "description": "The base template for N2O Create React App.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PredokMiF/cra-template-n2o-7-test.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=16"
+  },
+  "bugs": {
+    "url": "https://github.com/PredokMiF/cra-template-n2o-7-test/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "package": {
+    "dependencies": {
+      "n2o-framework": "^7.23.31"
+    },
+    "peerDependencies": {
+      "react": "*",
+      "react-dom": "*"
+    }
+  }
+}
