@@ -1,5 +1,5 @@
 {
-  "name": "n2o-7-test",
+  "name": "cra-template-n2o-7-test",
   "version": "1.0.0",
   "keywords": [
     "react",
@@ -7,19 +7,18 @@
     "n2o"
   ],
   "description": "The base template for N2O Create React App.",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/PredokMiF/cra-template-n2o-7-test.git"
-  },
+  "author": "Konstantin Grigorchuk <kgrigorchuk@i-novus.ru>",
   "license": "MIT",
-  "engines": {
-    "node": ">=16"
-  },
+  "repository": "https://github.com/PredokMiF/cra-template-n2o-7-test.git",
   "bugs": {
     "url": "https://github.com/PredokMiF/cra-template-n2o-7-test/issues"
   },
   "files": [
     "template",
     "template.json"
-  ]
+  ],
+  "main": "main.js",
+  "engines": {
+    "node": ">=16"
+  }
 }
